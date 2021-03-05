@@ -1,0 +1,14 @@
+{
+  "name": "yarn-lerna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private":"true",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces":["packages/*"],
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
