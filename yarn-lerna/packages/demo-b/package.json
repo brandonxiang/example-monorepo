@@ -19,5 +19,8 @@
   },
   "bugs": {
     "url": "https://github.com/brandonxiang/example-monorepo/issues"
+  },
+  "dependencies": {
+    "demo-a": "^0.0.1"
   }
 }

@@ -19,5 +19,8 @@
   },
   "bugs": {
     "url": "https://github.com/brandonxiang/example-monorepo/issues"
+  },
+  "dependencies": {
+    "fs-extra": "^9.1.0"
   }
 }
